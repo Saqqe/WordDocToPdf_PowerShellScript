@@ -1,2 +1,8 @@
-# WordDocToPdf_PowerShellScript
- Simple PowerShellScript for converting wrod doc/docx to pdf
+
+# docToPdf PowerShellScript
+
+Simple PowerShellScript for bulk convert word doc/docx to Pdf
+
+
+
+
